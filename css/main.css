@@ -1,0 +1,39 @@
+h1{
+	text-align: center;
+}
+
+body{
+	background: gray;
+}
+
+p{
+	text-align: center;
+}
+
+#container{
+	width: 625px;
+	height: 625px;
+	background-color: lightblue;
+	font-size: 0;
+	margin:0 auto;
+	padding: 0;
+	border: 7px dotted black;
+}
+
+button{
+	width: 350px;
+	height: 80px;
+	border: 5px solid red;
+}
+
+button:hover{
+	background-color: lightgray;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#buttons{
+	margin: 0 auto;
+	display: block;
+	width: 705px;
+}
